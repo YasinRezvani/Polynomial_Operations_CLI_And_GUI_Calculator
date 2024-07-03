@@ -1,4 +1,4 @@
-# Real_Time_Polynomial_CLI_And_GUI_Calculator
+# Polynomial_Operations_CLI_And_GUI_Calculator
 Polynomial Operations CLI And GUI Calculator is a versatile tool designed to help users perform a wide range of polynomial operations, including addition, subtraction, multiplication, reversal, and evaluation. The project features both a command-line interface (CLI) for quick and efficient operations and a graphical user interface (GUI) for a more intuitive and user-friendly experience. It is ideal for students and enthusiasts who want to deepen their understanding of polynomial mathematics and data structures. This calculator can be an excellent educational resource as well as a practical tool for complex polynomial calculations.
 
 # Demo :tada:
